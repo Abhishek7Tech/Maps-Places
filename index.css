@@ -1,0 +1,17 @@
+#app{
+    /* background-color: red; */
+    height: 20rem;
+    margin: 2rem,2rem;
+    text-align: center;
+    border: 2px solid red;
+
+}
+
+#inputs{
+    margin-top: 1rem;
+    text-align: center;
+}
+
+body{
+    background-color:azure;
+}
